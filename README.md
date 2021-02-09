@@ -1,0 +1,2 @@
+# Video-Magnification_Computer-Vision
+Many seemingly static scenes contain subtle changes that are invisible to the naked human eye. However, it is possible to pull out these small changes from videos through the use of algorithms. Video magnification give a way to visualize these small changes by amplifying them and pull out interesting signals from these videos, such as the human pulse, sound from vibrating objects and the motion of hot air.
